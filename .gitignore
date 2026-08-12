@@ -5,3 +5,5 @@ yolo26n.pt
 yolov8n-seg.pt
 #runs file
 runs/
+#Do not track zip files
+*.zip

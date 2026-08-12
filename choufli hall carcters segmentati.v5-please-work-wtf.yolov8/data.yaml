@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['AZZA', 'Dalanda', 'beji_matrix', 'fouchika', 'jannet', 'sboui', 'slimane', 'zeineb']
+
+roboflow:
+  workspace: ghayth-abidli
+  project: choufli-hall-carcters-segmentati
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ghayth-abidli/choufli-hall-carcters-segmentati/dataset/5
